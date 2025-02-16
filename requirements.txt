@@ -5,3 +5,4 @@ langchain_core
 langchain_text_splitters
 bs4
 faiss-cpu
+ollama
