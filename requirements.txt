@@ -4,4 +4,4 @@ langchain_community
 langchain_core
 langchain_text_splitters
 bs4
-faiss-gpu
+faiss-cpu
